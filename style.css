@@ -1,0 +1,22 @@
+/* Ethan Bao
+CPSC 332
+Dr. Olivares
+HW6
+11/17/2022 */
+
+body {
+    background-image: url(space.jfif);
+    text-align: center;
+    vertical-align: center;
+    align-items: center;
+}
+.timer-background {
+    background-color:lightgray;
+    font-size: 17px;
+    width:100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button-style {
+    
+}
